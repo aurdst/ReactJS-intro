@@ -1,0 +1,48 @@
+# Dossiers / fichiers générés par Node.js
+node_modules/
+build/
+dist/
+*.log
+
+# Fichiers spécifiques à l'environnement de développement
+.env
+*.env
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# Fichiers de build / distribution
+build/
+dist/
+*.css
+*.js
+*.map
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.swp
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de cache
+*.cache
+*.log
+
+# Fichiers de dépendances Docker
+node_modules/
+.docker/
+
+# Fichiers de sauvegarde des bases de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Autres fichiers / dossiers spécifiques à votre projet
